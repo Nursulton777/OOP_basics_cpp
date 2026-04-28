@@ -1,12 +1,9 @@
-//Isroilov Nursulton
-//U2510062
 
-
-//task 1
 #include <iostream>
 using namespace std;
 int main()
 {
+	//task 1
 	int a = 77;
 	float b = 3.14;
 	double c = 3.1426295325;
